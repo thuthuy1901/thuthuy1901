@@ -1,5 +1,5 @@
 ### Welcome my github!
-I am currently a **fresher frontend developer** working at NCC Plus Company. I have one year of experience working with **TypeScript, Tailwind, and ReactJS**. At school, I studied **Laravel, Angular, MySQL, Python** and more. I am ready to learn anything new if given the opportunity.
+I am currently a **fresher frontend developer** working at NCC Plus Company. I have one year of experience working with **TypeScript, Tailwind, and ReactJS**. I have knowledge about **Laravel, Angular, Vue, MySQL, Python** and more. I am ready to learn anything new if given the opportunity.
 
 ![Thuy's github stats](https://github-readme-stats.vercel.app/api?username=thuthuy1901&show_icons=true&theme=dark)
 
