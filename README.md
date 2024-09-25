@@ -1,5 +1,6 @@
 ### Welcome my github!
-I am currently a **fresher frontend developer** working at NCC Plus Company. I have one year of experience working with **TypeScript, Tailwind, and ReactJS**. I have knowledge about **Laravel, Angular, Vue, MySQL, Python** and more. I am ready to learn anything new if given the opportunity.
+I am currently a **fresher frontend developer** working at NCC Plus Company. I have one year of experience working with **TypeScript, Tailwind, and ReactJs**. About self-study, I studied Laravel, Angular, VueJs, NextJs, MySQL, Python and more. I am ready to learn anything new if given the opportunity.
+
 
 [Click Portfolio use VueJS](https://portfolio-vue-gilt.vercel.app/)
 
