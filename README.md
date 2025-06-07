@@ -1,6 +1,7 @@
 ### Welcome my github!
-I am currently a **fresher frontend developer** working at NCC Plus Company. I have one year of experience working with **TypeScript, Tailwind, and ReactJs**. About self-study, I studied Laravel, Angular, VueJs, NextJs, MySQL, Python and more. I am ready to learn anything new if given the opportunity.
-
+Hi, my name is Thu Thuy. I have a GPA of 3.4 and am currently working as a Frontend Developer at Tweet World Travel Company. I have two years of experience working with ReactJS and Next.js in both outsourcing and product-based environments, along with Laravel for backend integration.
+During my time in outsourcing projects, I also had the opportunity to work with Vue.js and Laravel to a certain extent.
+Currently, I am studying Java as part of my goal to become a Fullstack Developer.
 
 [Click Portfolio use VueJS](https://portfolio-vue-gilt.vercel.app/)
 
@@ -13,16 +14,18 @@ I am currently a **fresher frontend developer** working at NCC Plus Company. I h
 
 
 ### Best Frameworks and Libraries:
-| React.js | Redux Toolkit | Tailwind CSS | Angular | Laravel | Vue.js | Next.js |
-|----------|---------------|--------------|---------|---------|--------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux Toolkit" alt="Redux Toolkit" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="55" height="55"/> |
+| React.js | Next.js | Vue.js | Angular | Laravel | NestJS |
+|----------|---------|--------|---------|---------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="55" height="55"/> |
+
 
 
 
 ### Additional Tools:
-| GitHub | GitLab | Figma | VS Code | Android Studio | Docker |
-|--------|--------|-------|---------|----------------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS Code" alt="VS Code" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> |
+| VS Code | Postman | GitHub | Android Studio | Docker |
+|--------|---------|--------|------|----------------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS Code" alt="VS Code" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> |
+
 
 
 
